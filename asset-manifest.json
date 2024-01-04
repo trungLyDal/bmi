@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bmi/static/css/main.a0ebf0b5.css",
+    "main.js": "/bmi/static/js/main.ae05d136.js",
+    "static/media/R.png": "/bmi/static/media/R.7d4e4af5aee0af55c8a3.png",
+    "static/media/BMI-ECPL.jpg": "/bmi/static/media/BMI-ECPL.66a6b6a2307c515f1472.jpg",
+    "static/media/weight-gain.webp": "/bmi/static/media/weight-gain.6f120ed01eb59270336c.webp",
+    "static/media/MealPlan.jpg": "/bmi/static/media/MealPlan.561666638c82b35ff36f.jpg",
+    "static/media/jpg": "/bmi/static/media/e16db30fa4ca7c0bfa014b30c4ffbd3d.7605e63aa61d28384698.jpg",
+    "static/media/6bestfoodsforhealthyweightgaininfographics.jpg": "/bmi/static/media/6bestfoodsforhealthyweightgaininfographics.a789ab5d451413b53e49.jpg",
+    "static/media/FoodDeficit.jpg": "/bmi/static/media/FoodDeficit.b5e86427b20c197d01a1.jpg",
+    "static/media/LoseWeight.jpg": "/bmi/static/media/LoseWeight.277b75d0d355453eb310.jpg",
+    "static/media/OIP.jpg": "/bmi/static/media/OIP.f2ef1902b0c379fa9c95.jpg",
+    "index.html": "/bmi/index.html",
+    "main.a0ebf0b5.css.map": "/bmi/static/css/main.a0ebf0b5.css.map",
+    "main.ae05d136.js.map": "/bmi/static/js/main.ae05d136.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0ebf0b5.css",
+    "static/js/main.ae05d136.js"
+  ]
+}
