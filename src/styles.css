@@ -1,0 +1,172 @@
+
+* {
+  padding: auto;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e0e8ff;
+}
+
+main {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  width: 90%; /* Adjusted the width to 90% */
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+h1 {
+  background-color: #1b1096;
+  color: white;
+  width: 100%;
+  margin-bottom: 10px;
+  font-size: 2rem;
+  padding: 20px 10px;
+  border-radius: 10px;
+}
+
+.output-section{
+  padding-top: 5px
+}
+
+.output {
+  padding: 10px 5px;
+  border-radius: 9999px;
+  background-color: #1b1096;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.result {
+  padding: 10px 10px;
+  border-radius: 9999px;
+  background-color: black;
+  color: white;
+  margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+
+
+.result-section {
+  margin-top: 10px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 10px;
+  width: 50%;
+  margin-bottom: 30px;
+}
+
+.input-section {
+  width: 70%;
+}
+
+.input-slider {
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.slider-output {
+  text-align: left;
+  margin-top: 10px;
+}
+.scale-section {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 10px;
+  text-align: center;
+}
+
+
+.weightgain-section p {
+  margin-bottom: 15px; /* Add bottom margin to the paragraph */
+}
+
+.weightgain-section .gain {
+  padding: 10px 20px; /* Add padding to the button for better visibility and clickability */
+  border-radius: 9999px;  /* Adjust the border-radius to round the corners */
+  background-color: green; /* Add background color for better visualization */
+  color: #fff; /* Set text color to white for better contrast */
+  border: none; /* Remove default button border */
+  margin: 10px;
+  cursor: pointer;
+  border: 2px solid black;
+}
+
+.weightgain-section .loss {
+  padding: 10px 20px; /* Add padding to the button for better visibility and clickability */
+  border-radius: 9999px;  /* Adjust the border-radius to round the corners */
+  background-color: red; /* Add background color for better visualization */
+  color: #fff; /* Set text color to white for better contrast */
+  border: none; /* Remove default button border */
+  margin: 10px;
+  cursor: pointer;
+  border: 2px solid black;
+
+}
+
+.article-sections {
+  width: 100%;
+  text-align: left;
+  padding: 30px;
+}
+
+.article-sections h1, 
+.article-sections h3,
+.article-sections h4 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px; /* Adjusted margin to increase spacing between headings and paragraphs */
+}
+
+.article-sections p {
+  margin-bottom: 15px; /* Add or adjust margin for spacing between paragraphs */
+  padding-bottom: 10px; /* Add or adjust padding for spacing between the <p> tag and its content */
+
+}
+
+.article-sections img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px; /* Adjusted margin to increase spacing between images and paragraphs */
+}
+
+
+.weightgain-section .loss:hover {
+  background-color: darkred; /* Change background color on hover if desired */
+
+}
+
+.weightgain-section .gain:hover{
+  background-color: darkgreen; /* Change background color on hover if desired */
+}
+
+.scroll-to-top-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 9999px;
+  padding: 10px 10px 10px 10px;
+  cursor: pointer;
+
+  /* Centering styles */
+  position: fixed;
+  bottom: 10px; /* Adjust the bottom distance as needed */
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.scroll-to-top-button:hover {
+  background-color: #0056b3;
+}
