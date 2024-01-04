@@ -1,5 +1,5 @@
 import React from 'react';
-import ScrollToTopButton from './ScrollToTopButton';
+import ScrollToTopButton from './components/ScrollToTopButton';
 import FoodDeficit from "./assets/FoodDeficit.jpg";
 import LoseWeight from "./assets/LoseWeight.jpg";
 import MealPlan from "./assets/MealPlan.jpg";

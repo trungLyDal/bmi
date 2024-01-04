@@ -51,7 +51,7 @@ export default function App() {
     } else {
       message = "Obese";
     }
-    return bmi.toFixed(1), 
+    return bmi.toFixed(1),
     message;
 
   }, [height, weight]);

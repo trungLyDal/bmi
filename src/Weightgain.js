@@ -3,7 +3,7 @@ import MyImage from './assets/weight-gain.webp';
 import gainweightFood from "./assets/6bestfoodsforhealthyweightgaininfographics.jpg"
 import surplus from "./assets/e16db30fa4ca7c0bfa014b30c4ffbd3d.jpg"
 import balanced from "./assets/OIP.jpg"
-import ScrollToTopButton from './ScrollToTopButton';
+import ScrollToTopButton from './components/ScrollToTopButton';
 
 
 const WeightGainPage = () => {
